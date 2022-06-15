@@ -303,6 +303,7 @@ h6 {
 
 .project {
       height: 500px;
+      cursor: pointer;
 }
 
 .project1 {
@@ -558,7 +559,7 @@ h6 {
       border: none;
       resize: vertical;
       background: transparent;
-      color: #fff;
+      color: #2A2B2A;
       font-weight: bolder;
 }
 
@@ -573,7 +574,7 @@ textarea:focus {
 }
 
 .textarea {
-      border-bottom: 1px solid #dfdfdf;
+      border-bottom: 1px solid #999;
 }
 
 .send {
@@ -581,7 +582,7 @@ textarea:focus {
       text-transform: uppercase;
       padding: 20px 30px;
       background: transparent;
-      color: #dfdfdf;
+      color: #FF825C;
       font-size: 14px;
       letter-spacing: 2px;
 }
